@@ -1,0 +1,6 @@
+@Brewly_Backend_HostAddress = http://localhost:5194
+
+GET {{Brewly_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
