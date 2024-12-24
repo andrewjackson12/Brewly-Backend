@@ -1,4 +1,5 @@
 ﻿using Brewly_Backend.Data;
+using Brewly_Backend.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
